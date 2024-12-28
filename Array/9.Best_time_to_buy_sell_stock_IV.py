@@ -103,8 +103,3 @@ k = 2
 prices = [3, 2, 6, 5, 0, 3]
 print(maxProfit(k, prices))  # Output: 7
 
-
-
-
-
-#Explanation detailed : https://chatgpt.com/c/674ed8ae-17d4-8007-be18-ef40abc235c3
