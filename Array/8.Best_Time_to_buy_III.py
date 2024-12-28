@@ -3,10 +3,6 @@
 
 
 
-#Explanation on details about all solution here: https://chatgpt.com/c/674e3bd2-743c-8007-bbc6-2cf71797b0c3
-"read one and two time the explanation and the step - you see i explain some tow time so scroll in all the page"
-
-
 
 #Solution 1 :
 def maxProfit(prices):
