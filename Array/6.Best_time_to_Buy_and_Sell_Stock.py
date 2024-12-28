@@ -28,4 +28,3 @@ print(maxProfit(prices2))
 
 #Another solution : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/1735550/python-javascript-easy-solution-with-very-clear-explanation/
 
-#https://chatgpt.com/c/674cf72f-d06c-8007-b280-d0c5ab0f08ef
