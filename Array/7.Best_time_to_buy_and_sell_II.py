@@ -3,11 +3,6 @@
 #https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/
 
 
-
-
-
-
-
 #Solution
 def maxProfit(prices):
     max_profit = 0
@@ -55,4 +50,3 @@ print(maxProfit(prices2))
 
 #Another solution ; https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/4836121/simple-beginner-friendly-dry-run-greedy-approach-readable-sol-time-o-n-space-o-1-gits/
 
-#Explanation : https://chatgpt.com/c/674ddf3f-a83c-8007-b42b-6d4dd12b834d
