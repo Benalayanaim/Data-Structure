@@ -139,3 +139,5 @@ sell denotes the max profit of current Day_i, with selling stock with price quot
 hold denotes the max profit of current Day_i, with keep holding or buy and hold on Day_i
 """
 
+#here on detailed for both solution 
+#https://chatgpt.com/c/674f92b7-fa24-8007-9e2f-c389dfc1152f
