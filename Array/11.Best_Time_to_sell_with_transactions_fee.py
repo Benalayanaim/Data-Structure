@@ -58,5 +58,3 @@ print(maxProfit(prices1, fee1))
 
 
 
-"#Explanation : "
-# https://chatgpt.com/c/6750db73-cda0-8007-9ab5-c8c2aff10e07
