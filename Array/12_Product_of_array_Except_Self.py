@@ -97,5 +97,3 @@ print(product_except_self(nums))
 print(product_except_self(nums1))
 
 
-"Explanation "
-#https://chatgpt.com/c/67505686-b930-8007-9737-116ecc4ff97a
