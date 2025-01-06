@@ -4,8 +4,6 @@
 
 
 
-#https://chatgpt.com/c/67547bba-572c-8007-ab40-32a614e47833?model=o1
-
 
 """Check every solution here """
 #https://leetcode.com/problems/rotate-image/solutions/18884/seven-short-solutions-1-to-7-lines/
