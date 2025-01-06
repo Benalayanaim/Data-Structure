@@ -42,7 +42,6 @@ def search_rotated_sorted_array(nums, target):
 print(search_rotated_sorted_array([15, 17, 19, 1, 2, 5, 7, 10, 12],10))
 
 
-#https://chatgpt.com/c/6755a6b4-0118-8007-9f72-bf3747a91974
 
 #Explanation for the code :
 #https://leetcode.com/problems/search-in-rotated-sorted-array/solutions/5378208/video-find-a-sorted-part-in-ascending-order/
