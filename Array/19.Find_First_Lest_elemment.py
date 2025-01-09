@@ -203,7 +203,3 @@ If the middle element is less than the target, update left.
 If the middle element is greater than the target, update right.
 Continue the loop until left is less than or equal to right.
 Return first and last."""
-
-
-#"Explanation"
-#https://chatgpt.com/c/67580dcd-2f5c-8007-8da3-345300fe8c32
