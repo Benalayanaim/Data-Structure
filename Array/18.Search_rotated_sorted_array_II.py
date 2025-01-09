@@ -86,6 +86,3 @@ print(search(nums, target))
 
 
 
-"Explanation : "
-
-#https://chatgpt.com/c/6756b161-9e74-8007-9bea-e485158047c1
