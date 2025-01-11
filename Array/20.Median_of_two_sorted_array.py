@@ -2,9 +2,7 @@
 #https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 
 
-"""Explanation  Start by the brute force solution then move to the solution N4(scroll down to the last of the page in chatGPT) 
-                and then understand the sol2 adn sol 3"""
-#https://chatgpt.com/c/67599990-4f80-8007-ae5a-84ee7d6fd085
+
 
 
 #Solution N1
