@@ -12,8 +12,7 @@
 "then watch teh videos"
 #https://www.youtube.com/watch?v=GU7DpgHINWQ&t=67s
 
-"then move to the chatGPT"
-#https:https://chatgpt.com/c/675ac6a4-5ac0-8007-9e68-ed2f3856526b
+
 
 
 
