@@ -1,9 +1,6 @@
 "Problem : "
 #https://leetcode.com/problems/search-a-2d-matrix-ii/description/
 
-"Explanation :"
-#
-#https://chatgpt.com/c/675d69d8-7cac-8007-bcf9-cd2c897984ba
 
 
 #Solution : 1
