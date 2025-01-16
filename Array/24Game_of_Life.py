@@ -1,6 +1,5 @@
 #https://leetcode.com/problems/game-of-life/description/
 
-#https://chatgpt.com/c/675dfa65-ae04-8007-9407-33be58ab00e2
 
 
 
