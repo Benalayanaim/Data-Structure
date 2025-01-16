@@ -137,8 +137,6 @@ target3 = 1
 print(combinationSum3(candidates3, target3))  # Output: []
 
 
-#Explnation for the sol2 and sol 1
-#https://chatgpt.com/c/67600e3c-a740-8007-a14c-966413784513
 
 
 
