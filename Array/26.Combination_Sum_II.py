@@ -74,5 +74,3 @@ print(combinationSumm(candidates, target))
 print("==========================================================")
 
 
-#Explanation of the solutions
-#https://chatgpt.com/c/67615eb4-7924-8007-a82f-a4ab8680415d
