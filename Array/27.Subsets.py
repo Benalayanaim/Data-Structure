@@ -189,8 +189,3 @@ nums2 = [0]
 print(subsets5(nums2)) 
 
 
-#Explanation : https://chatgpt.com/c/67629d5a-6dd4-8007-8ba1-70e5074ab53c
-
-
-"Another solution with Python built-in Method : https://chatgpt.com/c/6762ab08-c35c-8007-a2d6-67d3215ca9b2"
-
