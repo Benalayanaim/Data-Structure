@@ -120,9 +120,3 @@ print("Output:", subsetsWithDup2(nums2))
 
 
 
-"Explanation"
-#https://chatgpt.com/c/67691c81-41e0-8007-8106-214826b20193
-
-
-"the differece between Subset and subset_II"
-#https://chatgpt.com/c/676930ea-2cc4-8007-adeb-25b36daf458c
