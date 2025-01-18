@@ -151,6 +151,3 @@ print(permute([1]))
 
 
 
-
-
-#Explanation : https://chatgpt.com/c/676ab256-03a0-8007-b634-52649422ac44
