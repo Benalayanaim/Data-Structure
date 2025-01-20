@@ -127,7 +127,3 @@ hei2 = [2,4]
 
 print(largestRectangleArea3(hei2))
 
-
-#Explanation :
-"open the chagpt mte3iiii"
-#https://chatgpt.com/c/676e78ce-6414-800f-9a76-8456491599d8
