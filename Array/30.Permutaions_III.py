@@ -180,8 +180,6 @@ nums2 = [1, 2, 3]
 print(permuteUnique(nums2))
 
 
-#Explanation : https://chatgpt.com/c/676c197e-82f0-8007-8510-376525749127
-
 
 
 
