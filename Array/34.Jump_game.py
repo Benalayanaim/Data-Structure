@@ -98,7 +98,3 @@ print(canJump([3,2,1,0,5]))
 
 
 
-
-"Explanation in the gmail:naim.benalaya.officiel@gmail.com"
-
-#https://chatgpt.com/c/67714316-c2ac-8006-9b81-e53c2692daba
