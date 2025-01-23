@@ -298,9 +298,6 @@ print(findSubstring(s, words))
 
 
 
-"Explanation"
-"fil chaGPT mte3iiiii"
-#https://chatgpt.com/c/676fcc03-72c0-800f-912b-be81bce6bf3e
 
 
 #Rousource
