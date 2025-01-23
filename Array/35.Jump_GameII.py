@@ -113,6 +113,4 @@ nums1 = [2, 3, 1, 1, 4]
 print(jump(nums1))  
 
 
-"Explanation fy chatGPT mte3ii"
-#https://chatgpt.com/c/6772e643-89f8-800f-8cba-0be596f3974c
 
