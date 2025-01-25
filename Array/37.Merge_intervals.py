@@ -83,7 +83,4 @@ print(merge_intervals_brute_force(intervals))
 
 
 
-"Fy ChatGpt mtec3iii"
-"Fy ekher haja gothelle bech yfessrhelii ekhtarr 3/4 lokhriin 1/4 w2/4 w 4/4 meghiir metdhay3 waqtek fiihom"
 
-#Explanation : https://chatgpt.com/c/677995fb-f6c4-800f-98a0-95d4a7e645ee
