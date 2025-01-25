@@ -139,4 +139,3 @@ print(insert(intervals1, newInterval1))
 intervals2 = [[1, 2], [3, 5], [6, 7], [8, 10], [12, 16]]
 newInterval2 = [4, 8]
 print(insert(intervals2, newInterval2)) 
-#Explanation : https://chatgpt.com/c/677a7ae2-23a8-800f-92b8-4135b718fca4
