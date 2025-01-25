@@ -140,6 +140,3 @@ print(longestConsecutive(nums2))
 
 
 
-
-"Fil chatGPT mte3ii"
-#Explanation : https://chatgpt.com/c/6775b728-83bc-800f-afaf-60720837af78
