@@ -57,4 +57,3 @@ print(FinAllDisappearNumbers(nums))
 
 #Explanation another : https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/solutions/1583736/c-python-all-6-solutions-w-explanations-binary-search-hashset-2x-o-1-space-approach/
 
-#https://chatgpt.com/c/674c8fae-43cc-8007-a30c-f3fae1ca2a37
