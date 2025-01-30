@@ -176,8 +176,3 @@ lower = -3
 upper = 1
 print(findMissingRanges4(nums, lower, upper))  
 
-
-
-"Fy chat mteiiii"
-#Explanation 
-#https://chatgpt.com/c/678251c8-78f4-800f-9421-40027a411125
