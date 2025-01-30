@@ -42,7 +42,5 @@ print(totalNQueens(1))
 
 
 
-"Explanation : https://chatgpt.com/c/677fc1b1-21a8-800f-a50a-797e569854cb"
-
 
 "What is ant_diagnoal : https://www.google.com/search?q=antidiagonale+matrice&rlz=1C1CHBD_frTN1087TN1087&oq=antidiago&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIICAMQABgKGB4yCAgEEAAYChgeMgYIBRAAGB4yBggGEAAYHjIICAcQABgKGB4yCAgIEAAYChgeMgYICRAAGB7SAQkxMzY5MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=CnQ7-qmAtmIvbM&vssid=l"
