@@ -79,5 +79,3 @@ def read(buf, n):
     return i
 
 
-"Fy chat mteiiii"
-#Explanation : https://chatgpt.com/c/6782452e-fc70-800f-b6e1-43a6a7d88885
