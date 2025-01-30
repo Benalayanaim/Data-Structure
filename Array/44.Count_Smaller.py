@@ -159,7 +159,7 @@ print(countSmaller4([-1, -1]))
 
 
 
-#Explanation : https://chatgpt.com/c/6780f169-704c-800f-a0b0-c703d9c21afc
+
 
 "Python Bitwise Operators"
 #Resource : https://www.geeksforgeeks.org/python-bitwise-operators/
