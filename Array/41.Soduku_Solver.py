@@ -152,7 +152,5 @@ for row in board:
 
 
 
-#Explanation : https://chatgpt.com/c/677d15da-49c8-800f-b435-ee142922f456
-
 "set()"
 #https://www.geeksforgeeks.org/python-set-function/
