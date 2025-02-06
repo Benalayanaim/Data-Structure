@@ -40,7 +40,3 @@ print(shortestDistance(wordsDict2, word1_2, word2_2))
 
 
 
-
-
-"Fy chat mteiiii"
-#Explanation : https://chatgpt.com/c/6783bba5-6f2c-800f-9834-47e49624a651
