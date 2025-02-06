@@ -86,9 +86,7 @@ nums2 = [1,2,3,4]
 print(containsDuplicate(nums1))
 print(containsDuplicate(nums2))
 
-"this explanation to understand the last solution :"
-"Fy chat mteiiii"
-#Explanation : https://chatgpt.com/c/6783d39f-49e8-800f-9650-7c381a10e5df
+
 
 
 print("===================================")
