@@ -84,7 +84,7 @@ print(wordDistance.shortest("coding", "practice"))
 print(wordDistance.shortest("makes", "coding"))     
 
 
-#Explain : https://chat.deepseek.com/a/chat/s/482c568c-9f90-4307-8f82-5d57f794fff2
+
 
 print("===========================================================================")
 
