@@ -124,6 +124,3 @@ print(twoSum.find(6))
 
 
 
-"Fy chat mteiiii"
-
-#Explanation : https://chatgpt.com/c/6783ac0f-dc00-800f-a33e-76f9fadd9d55
