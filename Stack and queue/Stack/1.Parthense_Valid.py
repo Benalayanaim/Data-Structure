@@ -108,7 +108,3 @@ print(isValid("(]"))
 print(isValid("([])"))      
 
 
-
-
-#Explanation : https://chatgpt.com/c/6786bf55-2d18-8006-b7c7-9ddb61f7bd89
-
