@@ -155,10 +155,3 @@ def timeRequiredToBuy(tickets, k):
                         return time
                         """
 
-#===>"#Explanation fy chat mte3iii li solution hedhi : https://chatgpt.com/c/6793aaf5-be94-800f-98b4-add9411592dd" 
-
-
-
-
-'For the others Solutions'
-#Explanation fy chat mteii : https://chatgpt.com/c/67939b5d-0248-800f-8742-37e9ae023d39
