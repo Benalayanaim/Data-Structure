@@ -105,6 +105,3 @@ prices1 = [1,2,3,4,5]
 print(finalPrices(prices))
 print(finalPrices(prices1))
 
-
-
-#Explanation : https://chatgpt.com/c/6787b1ab-0e7c-800f-876a-538f14c7c2fc
