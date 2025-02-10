@@ -73,8 +73,7 @@ print(Solution2(s))
 s = "aabb"
 print(Solution2(s))
 
-#Explanation : for thhis solution solution mi chat mte3iii
-#https://chatgpt.com/c/67978eea-5ae4-800f-9fdb-608371c82f48
+
 
 
 print("================================================")
