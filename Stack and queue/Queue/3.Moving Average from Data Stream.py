@@ -41,8 +41,6 @@ print(movingAverage.next(3))
 print(movingAverage.next(5))   
 
 
-#Explanation form Deepseek
-#https://chat.deepseek.com/a/chat/s/ccd47023-b98a-449b-af2e-73ce120cfcd0
 
 print("=====================================================")
 
