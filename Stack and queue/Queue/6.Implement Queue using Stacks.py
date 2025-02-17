@@ -160,7 +160,6 @@ print(myQueue.empty()) # Output: False (Queue still has elements)
 
 
 
-#Explanation : https://chatgpt.com/c/67b317ad-7210-800f-b951-b15e4ea4e942
-#Explanation : https://chat.deepseek.com/a/chat/s/cdf494af-0a13-4f7c-ad5e-9b9dc6c612cb
+
 
 "Resource : https://www.geeksforgeeks.org/deque-in-python/"
