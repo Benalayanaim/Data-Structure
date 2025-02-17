@@ -108,6 +108,3 @@ def preorderTraversal(root):
 
     return [root.val] + l + r
 
-
-
-#Explanation : https://chatgpt.com/c/6787bae9-5b3c-800f-a073-6cbcdd8a3a53
