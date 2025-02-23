@@ -45,7 +45,6 @@ print(can_schedule_all_meetings1([(5, 8), (9, 15)]))
 
 
 
-#Explanation : https://chatgpt.com/c/67850569-5914-800f-948b-bd92071f1f9c
 
 
 
@@ -79,5 +78,3 @@ print(canAttendMeetings1([[0, 30], [5, 10], [15, 20]]))  # Output: False
 print(canAttendMeetings1([(5, 8), (9, 15)]))              # Output: True
 
 
-"Explanation "
-#https://chatgpt.com/c/67850c70-ca6c-800f-ab86-e40c92690486
