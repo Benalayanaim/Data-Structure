@@ -97,5 +97,3 @@ print(removeDuplicates3(nums2))
 
 
 
-
-"Explanation : https://chatgpt.com/c/6784f3ee-71dc-800f-bcbd-c684e2c914d7"
