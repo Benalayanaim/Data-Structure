@@ -86,6 +86,3 @@ k2 = 2
 print(containsNearbyDuplicate(nums1, k1))
 print(containsNearbyDuplicate(nums2, k2))
 
-
-"Fy chat mteiiii"
-#Explanation : https://chatgpt.com/c/6783d8de-0048-800f-83ae-cd39b4aa32b5
