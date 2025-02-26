@@ -65,11 +65,6 @@ def mergeTwoLists(list1, list2):
     return head
 
 
-"read both explanation very intersting"
-"mii chat mte3iii"
-#https://chatgpt.com/c/67bf2f68-abf4-800f-a6d7-df4b5f8f7f07
-#https://chat.deepseek.com/a/chat/s/9d7a335d-fa19-4563-9e3e-08c9d1774396
-
 print("==============================================================")
 
 
