@@ -118,9 +118,6 @@ node3.next = node2  # Cycle
 
 head = node1 # node1 is current_node
 
-"Fom chat mte3iii"
-#Explanation :https://chatgpt.com/c/67c47d19-5930-800f-a315-27882b305172
-#Explanation https://chat.deepseek.com/a/chat/s/ec59358f-b7ba-4be6-9882-932eb87675ff
 
 "this is a very good explanation"
 #https://www.youtube.com/watch?v=gBTe7lFR3vc&t=559s
