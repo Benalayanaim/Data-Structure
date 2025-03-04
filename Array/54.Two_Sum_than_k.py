@@ -72,5 +72,3 @@ print(twoSumLessThanK(nums2, k2))
 
 
 
-
-#Explanation : https://chatgpt.com/c/67864626-78c0-800f-a177-48a117143f35
