@@ -192,5 +192,3 @@ print(nums1)
 
 
 
-
-#Explanation : https://chatgpt.com/c/678634b8-e0a4-800f-b811-5598f8dd38c0
