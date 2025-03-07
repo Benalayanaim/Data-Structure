@@ -46,7 +46,7 @@ def getIntersectionNode(headA: ListNode, headB: ListNode) -> ListNode:
 
 
 
-#"Explanation : https://chat.deepseek.com/a/chat/s/b9e07ed2-1348-42f6-aee2-cb428035ed82"
+
 
 
 
