@@ -78,8 +78,3 @@ def removeElements(head, val: int):
     return head
 
 
-"Expalantion"
-#from chat mte3ii
-#https://chatgpt.com/c/67c71ee8-dbac-800f-936d-07917b0cf1b5
-
-#https://chat.deepseek.com/a/chat/s/b110c69c-8bb3-455f-8013-11b38dc14609
