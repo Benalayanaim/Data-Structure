@@ -127,10 +127,6 @@ def skipMdeleteN(head, m, n):
 
 
 
-"€xplanation"
-#From my chatgpt
-#https://chatgpt.com/c/67cbaf59-9cec-800f-9884-2bc0f781f527
 
-#https://chat.deepseek.com/a/chat/s/b8334ab9-51f6-4308-abb0-3d2f3391a418
 
 
