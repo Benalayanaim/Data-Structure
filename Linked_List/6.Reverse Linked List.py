@@ -21,7 +21,7 @@ def reverseList(head: ListNode) -> ListNode:
         curr = next_temp       # Move to next node
     return prev  # New head of the reversed list
 
-# Helper function to create a linked list from a list
+
 
 
 print("===============================================================")
@@ -103,8 +103,3 @@ def reverseList(self, head):
         
         return rev
 
-
-#Explanation from my chatgpt:
-#https://chatgpt.com/c/67ca4eec-73fc-800f-8aef-9e650dfe7bca
-
-#https://chat.deepseek.com/a/chat/s/40ffe65a-902d-478c-bd08-78b4bc80fc08
