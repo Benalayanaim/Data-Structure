@@ -68,5 +68,4 @@ print(clearDigits(s1))
 
 
 
-#Explanation : https://chatgpt.com/c/678a332a-52b4-800f-9f43-4c7abad4fe54
 
