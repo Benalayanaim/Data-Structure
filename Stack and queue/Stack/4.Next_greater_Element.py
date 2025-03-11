@@ -140,4 +140,3 @@ print(nextGreaterElement(nums1, nums2))
 
 
 
-#Explanation 1: https://chatgpt.com/c/6788da28-8b00-800f-834f-a8706a8e2f62
