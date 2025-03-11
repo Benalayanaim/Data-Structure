@@ -102,6 +102,3 @@ s2 = "azxxzy"
 print(remove_adjacent_duplicates(s2))  
 
 
-
-
-#Explanation : https://chatgpt.com/c/678a3a7a-50c8-800f-be20-b586bc22d147
