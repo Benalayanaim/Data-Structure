@@ -107,8 +107,4 @@ return new_head
 
 
 
-#Good explanation about all thing in these two link 
-"From my chatGpt"
-#https://chatgpt.com/c/67ce3367-1d78-800f-98db-b5ac71fb8035
 
-#https://chat.deepseek.com/a/chat/s/0d31f8fe-8b62-487c-8e6e-0dc259353408
