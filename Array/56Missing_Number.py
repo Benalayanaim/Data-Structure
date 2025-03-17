@@ -72,5 +72,3 @@ print(missingNumber([0, 1]))
 print(missingNumber([9, 6, 4, 2, 3, 5, 7, 0, 1]))  
 
 
-
-#Explanation : https://chatgpt.com/c/678e6823-a24c-800f-acc9-0990585a11db
