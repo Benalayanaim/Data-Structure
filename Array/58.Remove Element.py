@@ -66,5 +66,3 @@ val2 = 2
 print(removeElement(nums2, val2))
 
 
-
-#Exlanation : https://chatgpt.com/c/678f681e-6614-800f-ab03-23282496b35f
