@@ -85,6 +85,3 @@ print(pivotIndex([1, 2, 3]))
 print(pivotIndex([2, 1, -1]))          
 
 
-
-"#Explanation in chrome Naim.benalaya.officeil@gmail.com"
-#https://chatgpt.com/c/678e7399-e178-8006-aaad-611e07440b09
