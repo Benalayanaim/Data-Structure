@@ -127,6 +127,3 @@ print(areSentencesSimilar(sentence1, sentence2, similarPairs))  # Output: False
 
 
 
-#Explanation
-"From Chrome Naim.benalaya.offciel@gmail.com"
-#https://chatgpt.com/c/678eaedd-eccc-8006-a4db-33afb9c602ad
