@@ -84,6 +84,3 @@ nums1 = [84, 46]
 nums2 = [84, 46]
 print(anagramMappings(nums1, nums2))  
 
-
-
-#Explanation : https://chatgpt.com/c/678f7412-f6c0-800f-aa47-163e36720831
