@@ -79,8 +79,3 @@ def removeNthFromEnd(head, n):
     return dummy.next
 
 
-
-
-
-#Explantion:
-#https://chat.deepseek.com/a/chat/s/081e5d3a-cf43-4d89-ab22-c7fd8bcc63a8
