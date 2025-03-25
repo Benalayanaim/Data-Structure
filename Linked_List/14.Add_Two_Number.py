@@ -37,9 +37,6 @@ def addTwoNumbers(l1: ListNode, l2: ListNode) -> ListNode:
     
     return dummy.next
 
-"Explanation form chat mte3ii"
-#https://chatgpt.com/c/67d4d97f-e678-800f-8d90-d89725f80b44
-
 
 print("=======================================================================")
 
@@ -85,8 +82,6 @@ def addTwoNumbers(l1: ListNode, l2: ListNode) -> ListNode:
     return dummy.next
 
 
-"Explanation "
-#https://chat.deepseek.com/a/chat/s/6a4413eb-32a7-45f9-bdfd-b875241a4bf3
 
 
 print("=======================================================================")
