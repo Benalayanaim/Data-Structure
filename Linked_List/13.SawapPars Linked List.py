@@ -40,8 +40,7 @@ def swapPairs(head: ListNode) -> ListNode:
     return dummy.next
 
 
-"#Explanation"
-#https://chat.deepseek.com/a/chat/s/94743bc9-cf54-4ad3-8532-74b127b23834
+
 
 
 print("==================================================================")
@@ -72,5 +71,3 @@ def swapPairs(head: ListNode) -> ListNode:
     
     return dummy.next
 
-"#Explanation from my chat"
-#https://chatgpt.com/c/67d393ed-f3a4-800f-b6e6-4584a8893311
