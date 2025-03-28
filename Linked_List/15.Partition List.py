@@ -34,9 +34,6 @@ def partition(head: ListNode, x: int) -> ListNode:
 
 
 
-"Explantion from my chatGpt"
-#https://chatgpt.com/c/67da16c0-aab8-800f-b671-52cd8bfd26ee
-
 
 print("===================================================================")
 
@@ -72,6 +69,3 @@ def partition(head, x):
     # Return the head of the combined list
     return less_head.next
 
-
-"Explantion"
-#https://chat.deepseek.com/a/chat/s/096b4603-d2d0-4a86-bc5d-ec0e85b7e96e
