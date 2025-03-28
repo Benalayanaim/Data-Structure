@@ -50,10 +50,6 @@ def sort_list(head):
     return merge_sorted_lists(left_sorted, right_sorted)
 
 
-"Explanation from my ChtapGpt"
-# https://chatgpt.com/c/67e1f5fb-8b90-800f-8fda-57dfba0fa2d3
-
-
 
 
 # Definition for singly-linked list.
@@ -107,9 +103,6 @@ class Solution:
             tail.next = right
         
         return dummy.next
-    
-"Explanation "
-# https://chat.deepseek.com/a/chat/s/ec32d4fb-7c41-4cbd-a7bb-2736ba26ba96
 
 
 
