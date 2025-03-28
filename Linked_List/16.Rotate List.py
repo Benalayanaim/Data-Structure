@@ -41,9 +41,6 @@ def rotateRight(head, k):
     return new_head
 
 
-"explanation "
-#https://chat.deepseek.com/a/chat/s/2ffb7403-23c4-4c40-94b4-dbca3ea0b7c2
-
 
 print("======================================================")
 
@@ -83,8 +80,7 @@ def rotateRight(head: ListNode, k: int) -> ListNode:
     return new_head
 
 
-"explanation from My ChatGpt"
-#https://chatgpt.com/c/67dcbc10-6724-800f-8265-4460d85d0808
+
 
 print("======================================================")
 
@@ -114,7 +110,3 @@ def rotateRight(head: ListNode, k: int) -> ListNode:
     return dummy.next
 
 
-"explanation for the last soluiton"
-#https://chat.deepseek.com/a/chat/s/2ffb7403-23c4-4c40-94b4-dbca3ea0b7c2
-
-#https://chatgpt.com/c/67dcbc10-6724-800f-8265-4460d85d0808
