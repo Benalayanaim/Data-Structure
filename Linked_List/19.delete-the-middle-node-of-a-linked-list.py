@@ -115,6 +115,3 @@ class Solution:
     
 
 
-"befor see the explanation walkthrough each example with paper, then see"
-"Explanation all solution"
-#https://chat.deepseek.com/a/chat/s/13641615-2fd5-4a7a-a188-536744aa8dba
