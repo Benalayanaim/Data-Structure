@@ -43,10 +43,7 @@ def isPalindrome(head: ListNode) -> bool:
     
     return True
 
-"Explanation from my ChatGpt"
-# https://chatgpt.com/c/67e34382-2574-800f-b76d-b0cdd2c9fd60
 
-# https://chat.deepseek.com/a/chat/s/68d11f48-9c9a-4310-88f6-83c5522c41da
 
 
 print("================================================================")
