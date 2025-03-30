@@ -112,9 +112,3 @@ class Solution:
     
 
 
-#Explanation
-# https://chat.deepseek.com/a/chat/s/d5eb3ee8-dcc4-4cd7-ad42-24c756a0d0a9
-
-
-"Explanation from My ChatGPT"
-# https://chatgpt.com/c/67e5ed58-e450-800f-b62b-eaac85ce58ca
