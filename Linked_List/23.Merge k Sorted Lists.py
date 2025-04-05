@@ -41,8 +41,6 @@ class Solution:
 
 
 
-"explanation "
-# https://chat.deepseek.com/a/chat/s/5d43a596-0a8a-4392-9316-7e215c3bdfbf
 
 print("====================================================")
 
@@ -84,10 +82,6 @@ class Solution:
         current.next = l1 if l1 else l2
         
         return dummy.next
-
-"explanation "
-# https://chat.deepseek.com/a/chat/s/5d43a596-0a8a-4392-9316-7e215c3bdfbf
-
 print("====================================================")
 
 
@@ -129,7 +123,3 @@ class Solution:
         
         return dummy.next
 
-"explanation From my chat gpt "
-# https://chatgpt.com/c/67e9fe73-9000-800f-8395-8c2cde89aac4
-
-# https://chat.deepseek.com/a/chat/s/5d43a596-0a8a-4392-9316-7e215c3bdfbf
