@@ -110,6 +110,3 @@ print(minOperations(logs3))
 
 
 
-#Explanation : https://chatgpt.com/c/678cff9a-c644-800f-9274-8c7b82ba4651
-
-"in the last disccion we have explanation when I use Pass when I use continue"
