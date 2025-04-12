@@ -68,7 +68,3 @@ print(makeGood("leEeetcode"))
 print(makeGood("abBAcC"))      
 print(makeGood("s"))           
 
-
-
-
-#Explanation : https://chatgpt.com/c/678bb14b-c358-800f-a7e9-d1fb2deaacf7
