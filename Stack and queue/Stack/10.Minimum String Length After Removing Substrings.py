@@ -68,6 +68,3 @@ s1 = "ACBBD"
 
 print(minLength(s))
 print(minLength(s1))
-
-
-#Explanation for the laset Solution : https://chatgpt.com/c/678d2bcd-4c38-800f-9519-b443a86bbeca
