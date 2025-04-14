@@ -123,6 +123,3 @@ nums = [0, 1, 2]
 costs = [1, 1, 1]
 print(min_cost(nums, costs)) 
 
-
-
-#Explanation : https://chatgpt.com/c/678f9629-c5ec-8006-86ee-a782c4cb3c4d
