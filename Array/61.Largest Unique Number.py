@@ -79,6 +79,3 @@ print(largest_unique_number(A))
 
 A = [9, 9, 8, 8]
 print(largest_unique_number(A))  
-
-
-#Explanation : https://chatgpt.com/c/6790e8f0-fbd8-800f-80b6-43b93d524748
