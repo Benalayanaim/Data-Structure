@@ -1,7 +1,6 @@
 #Link of the problem:
-
-#https://leetcode.ca/2024-03-14-3063-Linked-List-Frequency/
-#https://www.youtube.com/watch?v=SkIlCgXCS4M&t=20s
+# https://leetcode.ca/2024-03-14-3063-Linked-List-Frequency/
+# https://www.youtube.com/watch?v=SkIlCgXCS4M&t=20s
 
 
 class ListNode:
