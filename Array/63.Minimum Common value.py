@@ -123,12 +123,6 @@ If no match is found, it continues checking the next element in nums1.
 The first common element found is ....
 """
 
-#Explanation for the sol3 and sol 4: https://chatgpt.com/c/67911985-2a38-800f-9a69-fe0140987103
-
-
-
-for tomorow :
-            
 
 
 
@@ -139,45 +133,4 @@ for tomorow :
 
 
 
-https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/?envType=problem-list-v2&envId=array
-https://leetcode.ca/2016-08-22-266-Palindrome-Permutation/
-
-https://leetcode.com/problems/palindromic-substrings/description/
-
-https://leetcode.com/problems/palindrome-number/description/
-
-https://leetcode.com/problems/valid-palindrome/description/
-
-
-
-
-
-
-
-
-Premieum
-
-
-https://leetcode.com/problems/group-shifted-strings/description/?envType=problem-list-v2&envId=array
-https://leetcode.com/problems/encode-and-decode-strings/description/?envType=problem-list-v2&envId=array
-
-https://leetcode.com/problems/shortest-distance-from-all-buildings/description/?envType=problem-list-v2&envId=array
-https://leetcode.com/problems/strobogrammatic-number-iii/description/?envType=problem-list-v2&envId=array
-
-https://leetcode.com/problems/minimum-total-operations/description/?envType=problem-list-v2&envId=array
-https://leetcode.com/problems/split-concatenated-strings/description/?envType=problem-list-v2&envId=array
-
-https://leetcode.com/problems/longest-word-with-all-prefixes/description/
-
-
-
-
-hard
-https://leetcode.com/problems/minimum-window-substring/description/
-https://leetcode.com/problems/first-missing-positive/description/
-https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/
-
-
-#Sliding Window
-https://leetcode.com/problems/h-index-ii/description/
 
