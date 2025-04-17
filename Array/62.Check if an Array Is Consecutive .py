@@ -162,4 +162,4 @@ print(is_consecutive(nums))
 nums = [5,4, 3]
 print(is_consecutive(nums)) 
 
-#Explanation for the last solution : https://chatgpt.com/c/6790fecb-9418-800f-87de-dc1ae7c5b37f
+
