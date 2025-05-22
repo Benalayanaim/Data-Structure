@@ -51,7 +51,7 @@ nums2 = [10, 100, 101, 101]
 target2 = 101
 print(isMajorityElement(nums2, target2))  
 
-#Explanation https://chat.deepseek.com/a/chat/s/faefaa70-133d-4ef1-b077-e8a619993cf0
+
 
 
 print("==========================================================")
