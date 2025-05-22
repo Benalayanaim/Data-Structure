@@ -89,5 +89,3 @@ indices = [1,2,3,0]
 print(restoreString(s, indices))
 
 
-
-#Explanation for the first two solution: https://chatgpt.com/c/6793b131-7dc4-800f-864e-13cd9719a56e
