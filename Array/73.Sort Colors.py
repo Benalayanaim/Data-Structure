@@ -94,8 +94,3 @@ nums = [2, 0, 2, 1, 1, 0]
 sortColors(nums)
 print(nums)  
 
-"Explanation the Last solution : https://chat.deepseek.com/a/chat/s/ad79f7c8-f3a6-4823-abe0-d2b097c6d3a2"
-
-
-
-#Explantion for the other solution : https://chatgpt.com/c/679b7bd6-863c-800f-81a3-a47fba57b6fe
