@@ -68,8 +68,6 @@ print(searchInsert(nums, target))
 
 
 
-#Explanation : https://chat.deepseek.com/a/chat/s/009cd630-adb0-4d19-86d5-f5ae74bbab51
-
 
 print("=======================================================")
 
