@@ -73,12 +73,3 @@ print(uniquePathsWithObstacles(obstacleGrid1))
 
 obstacleGrid2 = [[0,1],[0,0]]
 print(uniquePathsWithObstacles(obstacleGrid2))  
-
-"Explanation: https://leetcode.com/problems/unique-paths-ii/solutions/3896905/100-dynamic-programming-video-optimal-solution/?envType=problem-list-v2&envId=array"
-
-
-
-
-
-"Explanation :"
-#https://chat.deepseek.com/a/chat/s/8cf901d2-4902-4680-82e7-c07298cdad74
