@@ -22,8 +22,6 @@ print(uniquePaths(3, 7))
 print(uniquePaths(3, 2))  
 
 
-"Explanation "
-#https://chat.deepseek.com/a/chat/s/f621a813-18df-4861-8939-91525dcb64de
 
 
 
@@ -46,12 +44,6 @@ def uniquePaths(m, n):
 print(uniquePaths(3, 7))  
 print(uniquePaths(3, 2))  
 
-"Explanation"
-# Mi chat Mte3iii : https://chatgpt.com/c/679fb636-7c58-800f-8bed-0a5d2cc72152
-
-#https://chat.deepseek.com/a/chat/s/f621a813-18df-4861-8939-91525dcb64de
-
-
 
 
 print("==================================================")
@@ -64,10 +56,3 @@ def uniquePaths(m: int, n: int) -> int:
 print(uniquePaths(3, 7))  
 print(uniquePaths(3, 2))  
 
-"Explanation"
-## Mi chat Mte3iii : https://chatgpt.com/c/679fb636-7c58-800f-8bed-0a5d2cc72152
-
-
-
-"""Another Explanation for all solution
-https://leetcode.com/problems/unique-paths/solutions/3994523/98-83-easy-dp-math/"""
