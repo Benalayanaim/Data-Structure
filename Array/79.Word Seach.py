@@ -51,8 +51,6 @@ print(exist(board, word1))
 print(exist(board, word2))  
 print(exist(board, word3))  
 
-#Expalanation : https://chat.deepseek.com/a/chat/s/75616a23-f466-4a00-9a43-26404e54acff
-
 
 print("=======================================================")
 
@@ -99,6 +97,3 @@ word3 = "ABCB"
 print(exist(board, word1))  
 print(exist(board, word2))  
 print(exist(board, word3))  
-
-
-#Explanation mi chat mte3iii : https://chatgpt.com/c/679fcc97-750c-800f-8116-cf171bfd37d8
