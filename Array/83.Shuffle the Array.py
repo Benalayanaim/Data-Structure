@@ -25,9 +25,6 @@ nums = [1,1,2,2]
 n = 2
 print(shuffle(nums, n))
 
-"""Explaination for the solution and 
-what is the * """
-#Explanation https://chat.deepseek.com/a/chat/s/d55eec95-c960-402a-8f55-e995b1c8b153
 
 print("=======================================================")
 
