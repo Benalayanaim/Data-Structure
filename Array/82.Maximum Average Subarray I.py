@@ -31,7 +31,7 @@ print(findMaxAverage(nums, k))
 
 """Explanation :
 ==>https://leetcode.com/problems/maximum-average-subarray-i/solutions/3532127/py3-beginner-friendly-with-details-and-explanation/?envType=problem-list-v2&envId=array"""
-#https://chat.deepseek.com/a/chat/s/6e1b50f8-090e-411e-96b4-054969206162
+
 
 print("===========================================")
 
