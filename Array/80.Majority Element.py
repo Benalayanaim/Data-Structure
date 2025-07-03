@@ -131,11 +131,3 @@ nums = [2,2,1,1,1,2,2]
 print(majorityElement(nums))
 
 
-"""Explanation :
-The intuition behind the Moore's Voting Algorithm is based on the fact that if there is a majority element in an array, 
-it will always remain in the lead, even after encountering other elements."""
-#Explanation the Last solution : https://leetcode.com/problems/majority-element/solutions/3676530/3-method-s-beats-100-c-java-python-beginner-friendly/?envType=problem-list-v2&envId=array
-
-
-
-#Explanation Solution 4 and 5 : https://chat.deepseek.com/a/chat/s/bc6d783c-f7e8-4896-84f7-b7aae38ffec1
