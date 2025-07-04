@@ -109,5 +109,3 @@ print(findDuplicate(nums))
 
 nums = [4,2,3,3,8]
 print(findDuplicate(nums))
-
-"Nrodbelii men7toch j start from 1 mehich kiam i + 1 because if I put in 1 from the second iteration i=1 heke bech yet9ablou i w j w return bech tkoun 2 elii hiie ghalet  beneseebee fyl example 2"
