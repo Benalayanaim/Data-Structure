@@ -73,10 +73,3 @@ print(convert_to_2d_array(original3, m3, n3))
 
 
 
-
-
-#Explanation : https://chat.deepseek.com/a/chat/s/8c2aa26b-e8d8-4f75-9735-6214b456623f
-
-"""# Time and Space Complexity:
-*Time complexity: O(m * n), where m is the number of rows and n is the number of columns, 
-because the function iterates over all elements in the `original` array."""
