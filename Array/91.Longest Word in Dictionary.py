@@ -100,7 +100,3 @@ print(longestWord(words))
 words = ["a","banana","app","appl","ap","apply","apple"]
 print(longestWord(words))
 
-
-#Explanation : 
-# https://chat.deepseek.com/a/chat/s/79461349-a56b-4bd6-9867-63f00d664366
-# https://chatgpt.com/c/67a3818f-3380-800f-90e0-e6baf551fa69
