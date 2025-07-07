@@ -32,4 +32,3 @@ print(findMin([4,5,6,7,0,1,2]))
 print(findMin([11,13,15,17]))   
 
 
-#Explanation fy chat mte3ii: https://chatgpt.com/c/67a35ef7-13a0-800f-a8e0-03f624e1ac97 
