@@ -36,6 +36,3 @@ print(minSubArrayLen(target, nums))
 
 
 
-#Explanation : https://chat.deepseek.com/a/chat/s/477252bc-aeb8-43cd-af73-9c5dd4d818ef
-
-#https://chatgpt.com/c/67a37805-47e4-800f-bf1f-d9c38cc7ea35
