@@ -129,6 +129,3 @@ print(matrixReshape(mat2, r2, c2))
 
 
 
-
-
-#Explanation : https://chat.deepseek.com/a/chat/s/d6af1130-4b34-4550-97e8-15a013bf7b82
