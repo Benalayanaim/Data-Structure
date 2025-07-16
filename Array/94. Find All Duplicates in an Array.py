@@ -75,5 +75,3 @@ def findDuplicates(nums):
 
 6/ Return the result list res.
 """
-
-#Explanation Last Solution : https://chat.deepseek.com/a/chat/s/639ebd69-6ee5-4355-9731-869ef2ee123f
