@@ -69,9 +69,6 @@ print(findMaxLength([0,1,0,1]))
 print(findMaxLength([0,1,1,1,0,1,0,1]))
 
 
-"Explanation : https://chatgpt.com/c/67a6128b-2718-800f-bafd-c97dc7dcd135"
-
-"Explanation : https://chat.deepseek.com/a/chat/s/b7663ce2-aea6-4753-a92d-e5b89e817a2f"
 
 
 print("===========================================================")
@@ -102,8 +99,6 @@ print(findMaxLength([0,1]))
 print(findMaxLength([0,1,0]))  
 print(findMaxLength([0,1,0,1]))
 print(findMaxLength([0,1,1,1,0,1,0,1]))
-
-"Explanation : https://chatgpt.com/c/67a6128b-2718-800f-bafd-c97dc7dcd135"
 
 
 print("===========================================================")
@@ -139,5 +134,3 @@ print(findMaxLength([0,1]))
 print(findMaxLength([0,1,0]))  
 print(findMaxLength([0,1,0,1]))
 print(findMaxLength([0,1,1,1,0,1,0,1]))
-
-"Explanation : https://chat.deepseek.com/a/chat/s/b7663ce2-aea6-4753-a92d-e5b89e817a2f"
